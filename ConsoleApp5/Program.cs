@@ -4,7 +4,7 @@ namespace ConsoleApp5
 {
     internal class Program
     {
-        private static double GetSum(int x, int n = 4)
+        private static double GetSum(int x, int n = 9)
         {
             if (n == 1) return Math.Sin(n * x) / (n + 2.0);
 
